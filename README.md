@@ -6,3 +6,5 @@ To home page,edit page, contact page
 
 npx serve app
 ```
+### to the css 
+the style
